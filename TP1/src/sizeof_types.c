@@ -23,13 +23,14 @@ int main() {
     printf("signed long long    : %lu octets\n", sizeof(signed long long int));
     printf("unsigned long long  : %lu octets\n", sizeof(unsigned long long int));
 
-    printf("\nfloat               : %lu octets\n", sizeof(float));
-    printf("double             : %lu octets\n", sizeof(double));
-    printf("long double         : %lu octets\n", sizeof(long double));
+    printf("\nfloats               : %lu octets\n", sizeof(float));
+    printf("doublew             : %lu octets\n", sizeof(double));
+    printf("long doublewqdf         : %lu octets\n", sizeof(long double));
     
 
     return 0;
 }
+
 
 
 
