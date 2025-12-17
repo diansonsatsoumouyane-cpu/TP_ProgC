@@ -49,7 +49,8 @@ int main() {
 
     printf("\nfloat = %f\n", f);
     printf("double = %lf\n", d);
-    printf("long double = %Lf\n", ld);
+    printf("slong double = %Lf\n", ld);
 
     return 0;
 }
+
