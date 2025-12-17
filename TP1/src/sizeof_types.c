@@ -25,9 +25,10 @@ int main() {
 
     printf("\nfloat               : %lu octets\n", sizeof(float));
     printf("double              : %lu octets\n", sizeof(double));
-    printf("long doubles         : %lu octets\n", sizeof(long double));
+    printf("longs doubles         : %lu octets\n", sizeof(long double));
     
 
     return 0;
 }
+
 
