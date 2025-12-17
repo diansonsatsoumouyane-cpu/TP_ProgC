@@ -24,11 +24,12 @@ int main() {
     printf("unsigned long long  : %lu octets\n", sizeof(unsigned long long int));
 
     printf("\nfloat               : %lu octets\n", sizeof(float));
-    printf("double              : %lu octets\n", sizeof(double));
+    printf("doubless              : %lu octets\n", sizeof(double));
     printf("longs doubles         : %lu octets\n", sizeof(long double));
     
 
     return 0;
 }
+
 
 
