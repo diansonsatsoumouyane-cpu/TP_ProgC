@@ -2,7 +2,8 @@
 #include <string.h>
 
 int main() {
-printf("Bonjour le cnam");
+printf("Bonjour le monde");
 }
+
 
 
