@@ -13,7 +13,7 @@ Année: 2025-2026
 
 ## Exercice 1.1 [★]
 
-**Affichage de "Bonjour le Monde" en C**
+**Affichage de "Bonjour le cnam" en C**
 
 Écrivez un programme C à l'intérieur du fichier *bonjour.c* qui affiche la chaîne de caractères "Bonjour le Monde!" à l'écran. Compilez le fichier *bonjour.c* en utilisant le compilateur GCC en exécutant la commande suivante dans le terminal :
 
